@@ -10,7 +10,7 @@ function renderLicenseLink(license) {}
 // If there is no license, return an empty string
 function renderLicenseSection(license) {}
 
-// TODO: Create a function to generate markdown for README
+// function to generate markdown for README
 function generateMarkdown(userData) {
   return `# ${userData.Title}
 
